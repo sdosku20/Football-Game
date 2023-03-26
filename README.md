@@ -1,6 +1,4 @@
-# Football-Game
-
-# How to play
+# How to play 🎮
 
 First Player:  W, S for up & down defensive row. I, K for up & down attacking row.
 
